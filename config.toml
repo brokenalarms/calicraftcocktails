@@ -1,4 +1,4 @@
-baseurl = "https://brokenalarms.github.io/calicraftcocktails"
+baseurl = "https://brokenalarms.github.io/calicraftcocktails/"
 title = "Cali Craft Cocktails"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
